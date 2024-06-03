@@ -1,4 +1,4 @@
-#Repotest
+#Docker Multiapp Rshiny instance
 
 This page explain the procedure how to build rshiny apps to build on a single container and connect the traffic to master container. 
 
